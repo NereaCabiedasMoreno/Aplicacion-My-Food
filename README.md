@@ -14,15 +14,19 @@ Se trata de un prototipo , no es una aplicación móvil completamente funcional
 
 -Autenticación
 
-![Screenshot](https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/autenticación.jpeg)
+https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/autenticación.jpeg
 
 -Gestión de restaurantes
-![Screenshot](https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/restaurante.jpeg)![Screenshot](https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/restaurantes.jpeg)
+https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/restaurante.jpeg
+https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/restaurantes.jpeg
 
 -Gestión de platos
 
+https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/plato.jpeg
+https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/platos.jpeg
 -Gestión de pedidos
-
+https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/pedido.jpeg
+https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/pedidoss.jpeg
 
 # Ejecución 
 
