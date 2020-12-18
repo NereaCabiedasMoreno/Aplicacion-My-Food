@@ -24,6 +24,7 @@ https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/restau
 
 https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/plato.jpeg
 https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/platos.jpeg
+
 -Gestión de pedidos
 https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/pedido.jpeg
 https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/pedidoss.jpeg
