@@ -14,7 +14,7 @@ Se trata de un prototipo , no es una aplicación móvil completamente funcional
 
 -Autenticación
 
-https://github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/autenticación.jpeg
+https://raw.github.com/NereaCabiedasMoreno/Aplicacion-My-Food/blob/main/fotos/autenticación.jpeg
 
 -Gestión de restaurantes
 
