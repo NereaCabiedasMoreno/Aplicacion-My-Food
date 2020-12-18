@@ -5,6 +5,7 @@ Práctica de la asignatura Interacción Persona Ordenador II ,aplicación móvil
 # Herramientas utilizadas
 
 -Flutter
+
 -Dart
 
 # Funcionalidades
@@ -12,9 +13,13 @@ Práctica de la asignatura Interacción Persona Ordenador II ,aplicación móvil
 Se trata de un prototipo , no es una aplicación móvil completamente funcional
 
 -Autenticación
+
 -Gestión de restaurantes
+
 -Gestión de platos
+
 -Gestión de pedidos
+
 
 # Ejecución 
 
@@ -24,5 +29,6 @@ video del funcionamiento de la aplicación: https://drive.google.com/file/d/1_AL
 # Desarrollada por:
 
 -Víctor Ávila Ortega
+
 -Nerea Cabiedas Moreno
 
