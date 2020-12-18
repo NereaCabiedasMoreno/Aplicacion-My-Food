@@ -25,7 +25,7 @@ Se trata de un prototipo , no es una aplicación móvil completamente funcional
 
 video del funcionamiento de la aplicación: https://drive.google.com/file/d/1_ALfxsJGR4mB0CuCchbzjlMZMOf2Hxf4/view?usp=sharing
 
-Desacargar Apk : https://mega.nz/file/SJtnjSKS#gfTi9RjCI5n6zuDmlRR1hLWrvFpk2HI7_GE6iIi0LKY
+Descargar Apk : https://mega.nz/file/SJtnjSKS#gfTi9RjCI5n6zuDmlRR1hLWrvFpk2HI7_GE6iIi0LKY
 
 
 # Desarrollada por:
