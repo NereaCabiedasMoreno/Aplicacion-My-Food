@@ -1,4 +1,4 @@
-# Aplicacion My Food
+# Aplicación My Food
 
 Práctica de la asignatura Interacción Persona Ordenador II ,aplicación móvil Multiplataforma empleando el framework Flutter y el lenguaje de programación Dart, desarrollada mediante la porgramación orientada a Widgets de Flutter.Su objetivo es la gestión de pedidos y reparto de comida a domicilio.
 
